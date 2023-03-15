@@ -2,5 +2,17 @@
   {
     "package": "elsa",
     "oncran": true
+  },
+  {
+    "package": "rts",
+    "oncran": true
+  },
+  {
+    "package": "sdm",
+    "oncran": true
+  },
+  {
+    "package": "usdm",
+    "oncran": true
   }
 ]
