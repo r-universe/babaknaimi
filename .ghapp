@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["elsa", "rts", "sdm", "usdm"]
+  "repositories": ["sdm", "rts", "elsa", "usdm"]
 }
